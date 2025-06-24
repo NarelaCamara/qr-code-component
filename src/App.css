@@ -16,7 +16,7 @@
 }
 
 .section {
-  margin: 0px 16px ;
+  margin: 0px 16px;
 }
 
 .image {
@@ -31,9 +31,17 @@ p {
 
 h2 {
   font-size: 22px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 120px;
+  font-style: normal;
 }
 
 p {
   color: #68778d;
   font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 140px;
+  font-style: normal;
 }
